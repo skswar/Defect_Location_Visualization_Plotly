@@ -5,10 +5,9 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Stochastic Gradient Descent From Scratch](#stochastic-gradient-descent-from-scratch)
-* [Logistic Regression From Scratch](#logistic-regression-from-scratch)
-* [Kmeans and Kmeans++ From Scratch](#kmeans-from-scratch)
-* [Principal Component Analysis (PCA) From Scratch](#principal-component-analysis-from-scratch)
+* [Understanding Defect Regions](#understanding-defect-regions)
+* [Highlighting Pain Points](#highlighting-pain-points)
+* [Conclusion](#conclusion)
 
 <hr>
 

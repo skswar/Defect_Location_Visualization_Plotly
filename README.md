@@ -1,5 +1,16 @@
-# Defect_Location_Visualization_Plotly
-This repository serves as a demonstration of how to analyze product defects and identify critical points within the product. By doing so, we can effectively troubleshoot and address potential issues to improve product quality and performance
+<div align="center">
+<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/banner.png" alt="Intro Logo" width="80%"></div>
+<h3 align="center">How can we analyze Defects to Improve Product Quality</h3>
+<br/>
+
+## Table of contents
+* [Introduction](#introduction)
+* [Stochastic Gradient Descent From Scratch](#stochastic-gradient-descent-from-scratch)
+* [Logistic Regression From Scratch](#logistic-regression-from-scratch)
+* [Kmeans and Kmeans++ From Scratch](#kmeans-from-scratch)
+* [Principal Component Analysis (PCA) From Scratch](#principal-component-analysis-from-scratch)
+
+<hr>
 
 
 

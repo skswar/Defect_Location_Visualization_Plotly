@@ -6,7 +6,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Methodology](#methodology)
-  * [Understanding Defect Regions](#understanding-defect-regions)
+  * [Understanding Product Dimensions](#understanding-product-dimensions)
   * [Highlighting Pain Points](#highlighting-pain-points)
 * [Conclusion](#conclusion)
 
@@ -24,12 +24,14 @@ The products that I am analyzing in this project is called Instrument Protectors
 ## Methodology
 To achieve the goal, I initially examined the defect logs data and visualized the defect coordinates. Subsequently, I attempted to create a plot to highlight the critical defect regions. However, as I delved deeper into the analysis, I quickly realized that the task was not as straightforward as anticipated.
 
-### Understanding Defect Regions
-In this project we are analyzing two similar products but of different dimensions. Thus the defect coordinates are going to vary based on the product size. 
+### Understanding Product Dimensions
+In this project we are analyzing two similar products but of different dimensions. Thus the defect coordinates are going to vary based on the product size. Although we are unknown about the original dimensions of the product but by analyzing the below two plots (Fig. 1) we can clearly have an idea how to segregate the two products based on their defect regions. It also very difficult to say at this moment which are the most critical area of issue for the product as the defect is occuring throughout. 
+
+For the smaller product, a rectangular region is clearly visible whereas for the medium sized product a rectangular white line can be identified in between by a close look. It is important to notice that any time a defect coordinate is getting logged out of this rectangular regions are happening becuase of misaalignment. Therefore it also will be important to note the number of products being rejected due to misallignment. From the below plot though, it is very clear that medium sized products are having a lot more misallignment than the small products.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_small.png" width="300px" height="200px"/>
-<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_med.png" width="300px" height="200px"/>
+<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_small.PNG" width="300px" height="250px"/>
+<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_med.PNG" width="350px" height="250px"/><p align="center">Fig. 1</p>
 </p>
 
 

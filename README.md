@@ -34,7 +34,7 @@ For the smaller product, a rectangular region is clearly visible whereas for the
 <img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_med.PNG" width="350px" height="250px"/><p align="center">Fig. 1</p>
 </p>
 
-
+In the below
 
 
 **Link to Notebook with plotly graphs**: [Defect_Location_Visualization.ipynb](https://nbviewer.org/github/skswar/Manufacturing_Defect_Analysis_and_Visualization/blob/main/python_scripts/Defect_Location_Visualization.ipynb)

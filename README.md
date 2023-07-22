@@ -22,8 +22,15 @@ The products that I am analyzing in this project is called Instrument Protectors
 2. [Medium Card](http://www.globalindustrial.com/p/attest-instrument-protectors-13913-3-1-2-inch-x-6-5-8-inch-100-each-pack-10-packs-case)
 
 ## Methodology
+To achieve the goal, I initially examined the defect logs data and visualized the defect coordinates. Subsequently, I attempted to create a plot to highlight the critical defect regions. However, as I delved deeper into the analysis, I quickly realized that the task was not as straightforward as anticipated.
 
+### Understanding Defect Regions
+In this project we are analyzing two similar products but of different dimensions. Thus the defect coordinates are going to vary based on the product size. 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_small.png" width="300px" height="200px"/>
+<img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/loc_med.png" width="300px" height="200px"/>
+</p>
 
 
 

@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/banner.png" alt="Intro Logo" width="80%"></div>
-<h3 align="center">How can we analyze Defects to Improve Product Quality</h3>
+<h3 align="center">How can we analyze Defects to Improve Product Quality?</h3>
 <br/>
 
 ## Table of contents

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/skswar/Manufacturing_Defect_Analysis_and_Visualization/master/img/banner.png" alt="Intro Logo" width="90%"></div>
 <h3 align="center">How can we analyze Defects to Improve Product Quality?</h3>
-<br/>
+<hr>
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -10,7 +10,6 @@
   * [Highlighting Pain Points](#highlighting-pain-points)
 * [Conclusion](#conclusion)
 
-<hr>
 
 ## Introduction
 In any industry, understanding and improving product quality are of utmost importance. Not only does it enhance customer trust, but it also reduces production costs, contributing to overall profitability. This project aims to explore product quality rejection data in detail and analyze the reasons for product rejections. By taking proactive actions based on these insights, we can effectively enhance the overall manufacturing process.
